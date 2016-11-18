@@ -8,5 +8,6 @@ int main() {
 	printf("¬ведите размер кредита, процентную ставку и сумму ежемес€чного платежа:\n");
 	scanf("%f %f %f", &bal, &proc, &plat);
 
-	printf("%d мес€цев", months(bal, proc, plat));
+
+	//printf("%d мес€цев", months(bal, proc, plat));
 }
